@@ -14,6 +14,7 @@ the following credentials...
 - Songkick API Key  
 - Spotify API Client ID  
 - Spotify API Client Secret  
+
 Code for getting the necessary data is in the following jupyter notebooks...  
 - **get_train_data.ipynb**: scrapes pitchforks list of the top 200 albums of the 2010s for
 all artists on the list. Gets each artists top tracks from the Spotify API as well as pre-defined
