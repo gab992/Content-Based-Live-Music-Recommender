@@ -5,7 +5,9 @@ I used audio features extracted from mp3s and from Spotify's API to recommend a 
 To use the already trained models, the recommender can be used by running 'get_location_data.ipynb' for whatever cities the user wants and then running 'Recommender.ipynb'.  
 
 **Method 2: re-training models and running recommender**  
-The models can be retrained by running 'get_train_data.ipynb' and then running 'PCA_and_clustering.ipynb'. Then the recommender can be run by following the Method 1 instructions.
+The models can be retrained by running 'get_train_data.ipynb' and then running 'PCA_and_clustering.ipynb'. Then the recommender can be run by following the Method 1 instructions.  
+
+A writeup for this project can be found here: https://medium.com/@gab99/a-content-based-live-music-recommender-e8d8d6054b9  
 
 # Data  
 Unfortunately, due to API use conditions I cannot post the data for this project.
@@ -14,7 +16,7 @@ the following credentials...
 - Songkick API Key  
 - Spotify API Client ID  
 - Spotify API Client Secret
-  
+
 These credentials can be requested from [Spotify](https://developer.spotify.com/documentation/general/guides/authorization-guide/) and [Songkick](https://www.songkick.com/api_key_requests/new).  
 
 Code for getting the necessary data is in the following jupyter notebooks...  
