@@ -14,6 +14,7 @@ the following credentials...
 - Songkick API Key  
 - Spotify API Client ID  
 - Spotify API Client Secret  
+These credentials can be requested from [Spotify](https://developer.spotify.com/documentation/general/guides/authorization-guide/) and [Songkick](https://www.songkick.com/api_key_requests/new).  
 
 Code for getting the necessary data is in the following jupyter notebooks...  
 - **get_train_data.ipynb**: scrapes pitchforks list of the top 200 albums of the 2010s for
